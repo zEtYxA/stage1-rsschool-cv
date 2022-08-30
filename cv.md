@@ -5,4 +5,4 @@ Ambitious, I achieve my goals.
 ```console.log('Hello rolling-scopes-school')```
 without experience
 _Score JS/FE Pre-School 2022Q2_
-English(A1), Russia.
+English(A1), Russia./
