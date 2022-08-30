@@ -1,1 +1,1 @@
-# stage1-rsschool-cv
+# https://zEtYxA.github.io/stage1-rsschool-cv/cv
