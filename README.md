@@ -1,1 +1,1 @@
-# https://zetyxa.github.io/stage1-rsschool-cv/CV/cv
+# https://zetyxa.github.io/stage1-rsschool-cv/CV/index.html
